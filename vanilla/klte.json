@@ -1,0 +1,20 @@
+{
+  "response": [
+    {
+      "oem": "Samsung",
+      "name": "Samsung Galaxy S5",
+      "codename": "klte",
+      "filename": "Havoc-OS-v3.7-20200724-klte-Official-WithFixes.zip",
+      "version": "3.7",
+      "romtype": "Official",
+      "variant": "Vanilla",
+      "maintainer": "cnkzlyr",
+      "size": "446100000",
+      "datetime": 1595548800,
+      "id": "",
+      "url": "https://sourceforge.net/projects/havoc-os/files/klte/Havoc-OS-v3.7-20200724-klte-Official-WithFixes.zip/download",
+      "group": "https://t.me/havoc_klte",
+      "changelog": ""
+    }
+  ]
+}
